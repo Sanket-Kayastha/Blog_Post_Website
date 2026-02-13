@@ -12,3 +12,6 @@ Edit button to edit each blog
 
 <img width="1194" height="587" alt="Screenshot 2026-02-13 183920" src="https://github.com/user-attachments/assets/95e4cc55-6d7d-416f-aa75-47b82a3fd67a" />
 
+Edit each blog
+
+<img width="1149" height="615" alt="Screenshot 2026-02-13 183946" src="https://github.com/user-attachments/assets/d5bd8d29-2eca-4b71-9e18-9360590757de" />
